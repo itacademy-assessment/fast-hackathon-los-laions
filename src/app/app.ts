@@ -11,6 +11,8 @@ import { IRepository } from './shared/models/irepository';
 })
 export class App {
   protected readonly title = signal('github-hackathon');
+
+
   gitServ = inject(GithubRepos);
   repos = computed<IRepository[]>(() => {
     return [...this.reposJuan(), ...this.reposCarlosB(), ...this.reposCarlosM(), ...this.reposVania(), ...this.reposEdgar(), ...this.reposSergi()];
@@ -47,5 +49,6 @@ export class App {
       this.reposSergi.set(response);
     })
   }
+
 
 }

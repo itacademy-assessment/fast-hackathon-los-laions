@@ -60,3 +60,6 @@ Al finalizar la hackathon, **cada equipo tendrá 3 minutos para presentar su apl
 🔚 Una vez finalizadas todas las presentaciones, **todos los participantes y mentores votarán** por la mejor aplicación. **No se permite votar por el propio equipo.** La aplicación más votada será reconocida como la ganadora de esta Fast-Hackathon.
 
 💡 Consejo: No intentéis mostrar todo. Elegid **los puntos más fuertes** y destacad lo que habéis aprendido y conseguido en tan poco tiempo.
+
+
+
